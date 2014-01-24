@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 4.3</authorApplication>
+<creationDate>03/24/13, 10:10:54 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>My Photographs</groupTitle>
+<groupDescription>Web Photo Gallery created by Adobe Lightroom.</groupDescription>
+<siteTitle>Site Title</siteTitle>
+<contactName>Contact Name</contactName>
+<contactEmail>mailto:user@domain</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="96" maxwidth="96" size="thumb"/>
+<imageSize maxheight="450" maxwidth="800" size="small"/>
+<imageSize maxheight="520" maxwidth="1040" size="medium"/>
+<imageSize maxheight="650" maxwidth="1150" size="large"/>
+</sizes>
+<media totalGallerySize="13">
+<item>
+<title></title>
+<description></description>
+<imageID id="23" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-001.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-001.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-001.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-001.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="43" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-002.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-002.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-002.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-002.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="53" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-003.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-003.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-003.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-003.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="63" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-004.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-004.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-004.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-004.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="96" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-005.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-005.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-005.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-005.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="111" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-006.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-006.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-006.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-006.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="128" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-007.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-007.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-007.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-007.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="145" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-008.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-008.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-008.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-008.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="160" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-009.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-009.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-009.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-009.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="175" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-010.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-010.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-010.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-010.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="193" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-011.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-011.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-011.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-011.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="211" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-012.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-012.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-012.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-012.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="228" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="650" src="images/large/Studio_Session-013.jpg" width="975" size="large"/>
+<rendition height="520" src="images/medium/Studio_Session-013.jpg" width="780" size="medium"/>
+<rendition height="450" src="images/small/Studio_Session-013.jpg" width="675" size="small"/>
+<rendition height="64" src="images/thumb/Studio_Session-013.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>
